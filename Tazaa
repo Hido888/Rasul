@@ -1,17 +1,1 @@
-[
-  {
-    "v": "2",
-    "ps": "My VLESS",
-    "add": "sunucu.adresi",
-    "port": "443",
-    "id": "UUID-YAZ",
-    "aid": "0",
-    "scy": "none",
-    "net": "tcp",
-    "type": "none",
-    "host": "",
-    "path": "",
-    "tls": "tls",
-    "sni": ""
-  }
-]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUHc2SWRXUmhjeFBCVEpER2tmU293@5.22.222.111:636#Poland%F0%9F%87%B5%F0%9F%87%B1%28ALL%20PROVIDERS%29%20%28Zeus14_9.05%29%20%5BShadowsocks%20-%20tcp%5D
