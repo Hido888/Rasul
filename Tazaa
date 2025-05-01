@@ -1,0 +1,17 @@
+[
+  {
+    "v": "2",
+    "ps": "My VLESS",
+    "add": "sunucu.adresi",
+    "port": "443",
+    "id": "UUID-YAZ",
+    "aid": "0",
+    "scy": "none",
+    "net": "tcp",
+    "type": "none",
+    "host": "",
+    "path": "",
+    "tls": "tls",
+    "sni": ""
+  }
+]
